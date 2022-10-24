@@ -21,8 +21,8 @@
 title: um
 email: info@um-musical-app.com
 description: >- # this means to ignore newlines until "baseurl:"
-  um: a new turn on music!
-baseurl: "/um" # the subpath of your site, e.g. /blog
+-  um: a new turn on music!
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "lightgearsaway.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: atiliomf
 github_username:  atiliomf
