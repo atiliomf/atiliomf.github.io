@@ -21,17 +21,7 @@
 title: um - a new turn on music
 email: info@unexpectedinventions.com
 description: >- # this means to ignore newlines until "baseurl:"
-  um is an inspiring collection of tools for musicians of all levels.
-  It is available for both for both iOS and Android, and includes
-  - a huge catalogue of scales, chords and chord progressions 
-  - tools to create and explore scales
-  - a transposer
-  - an audio analysis device
-  - an advanced tuner
-  - a touch-responsive instrument with multiple sounds and midi output
-  - a musical sketchbook to record and explore ideas anywhere
-  - a metronome/drum machine, including rhythms and sounds from around the world
-  - and, last but not least, the world's most efficient ear trainer
+  um - a new turn on music
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://unexpectedinventions.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: atiliomf
