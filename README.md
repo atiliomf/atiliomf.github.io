@@ -1,4 +1,3 @@
 # atiliomf.github.io
 
-the code for my website: unexpectedinventions.com
-
+This is the code for my website, unexpectedinventions.com
