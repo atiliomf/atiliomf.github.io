@@ -3,6 +3,7 @@ layout: default
 title:  "This is UM"
 date:   2022-11-25 00:00:00 +0200
 categories: jekyll update
+permalink: /um/
 ---
 Unexpected Music, or simply um, is an inspiring collection of musical tools, useful for anyone who is interested in music - from the complete beginner, seeking to undestand the fundaments of music, to the seasoned professional, striving to improve and reach the next level. 
 
