@@ -1,9 +1,9 @@
 # Site settings
-title: Good Clean Read
-tag_text: Good Clean Read
-description: A responsive template for publishing single-page websites, articles that are easy on the eyes
-url: "https://adueck.github.io" # base URL for your site ie. "https://www.example.com"
-baseurl: "/good-clean-read" # subpath for base of site, leave blank if hosting at root
+title: Unexpected Inventions
+tag_text: Unexpected Inventions
+description: Welcome to the unexpected
+url: "https://www.unexpectedinventions.com/" # base URL for your site ie. "https://www.example.com"
+baseurl: "/docs" # subpath for base of site, leave blank if hosting at root
 
 font-awesome-include: true # make this false if you don't need font-awesome
 
