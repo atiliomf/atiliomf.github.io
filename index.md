@@ -16,6 +16,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% include vimeoPlayer.html id=752088388 %}
 
+{% include youtubePlayer.html id=gsOtwF2sOLc %}
+
 ### With footnotes too!
 
 Back up your stuff with solid, clean citations. Footnotes can be written in markdown and appear like this.[^1] Use as many as you like.[^2]
