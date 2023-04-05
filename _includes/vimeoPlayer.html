@@ -1,15 +1,7 @@
 <!-- Feel free to change the width and height to your desired video size. -->
 
-<div class="embed-container">
-  <iframe
-      src="https://player.vimeo.com/video/{{ include.id }}"
-      width="700"
-      height="480"
-      frameborder="0"
-      allow="autoplay; fullscreen; picture-in-picture"
-      webkitallowfullscreen
-      mozallowfullscreen
-      allowfullscreen>
-  </iframe>
+<div class="videoContainer">
+    <iframe 
+        title="{{ include.id }}" 
+        src="https://player.vimeo.com/video/{{ include.id }}?title=0&byline=0&portrait=0" class="video" allowfullscreen></iframe>
 </div>
-
