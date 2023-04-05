@@ -14,7 +14,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ### Videos!
 
-{% include vimeoPlayer.html id=752088388 %}
+<!--{% include vimeoPlayer.html id=752088388 %}-->
 
 {% include youtubePlayer.html id=gsOtwF2sOLc %}
 
