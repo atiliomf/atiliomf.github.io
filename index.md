@@ -1,5 +1,6 @@
 ---
 layout: default
+vimeoId: 752088388
 ---
 
 ## A Jekyll template for publishing single-page websites and articles that are incredibly readable and fully responsive
@@ -14,7 +15,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ### Videos!
 
-{% include vimeoPlayer.html id=page.752088388 %}
+{% include vimeoPlayer.html id=page.vimeoId %}
 
 ### With footnotes too!
 
