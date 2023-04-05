@@ -1,8 +1,6 @@
 ---
 title: "Customize Duo"
 
-# To set og:image:
-# image: ...
 ---
 
 ## Step 1: Customize `_config.yml`

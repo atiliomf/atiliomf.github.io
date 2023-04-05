@@ -2,8 +2,6 @@
 title: "Syntax Highlighting Test Case"
 # https://github.com/jneen/rouge/blob/e5b0446eac953cbd2d40e1f93527642b3d066d31/lib/rouge.rb#L6-L34
 
-# To set og:image:
-# image: ...
 ---
 
 ```ruby

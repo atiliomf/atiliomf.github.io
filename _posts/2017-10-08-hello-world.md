@@ -1,7 +1,7 @@
 ---
 title: "Hello World"
 
-# To set og:image:
+# To set illustration:image:
 # image: ...
 ---
 
