@@ -2,10 +2,9 @@
 title: Unexpected Inventions
 tag_text: Unexpected Inventions
 description: Welcome to the unexpected
-url: "https://www.unexpectedinventions.com/" # base URL for your site ie. "https://www.example.com"
-baseurl: "" # subpath for base of site, leave blank if hosting at root
-
-font-awesome-include: true # make this false if you don't need font-awesome
+url: "https://www.unexpectedinventions.com/" 
+baseurl: "" 
+font-awesome-include: true 
 
 # Build settings
 markdown: kramdown
