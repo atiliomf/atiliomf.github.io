@@ -35,30 +35,6 @@ Add this at the bottom, or the top, or between every other paragraph if you're d
 
 Just remember to customize the buttons to fit your url in the `_includes/sharing.html` file. These buttons are made available and customizable by the good folks at kni-labs. See the documentation at [https://github.com/kni-labs/rrssb](https://github.com/kni-labs/rrssb) for more information.
 
-### Add videos!
-
-Use Tachyons [`aspect-ratio`](http://tachyons.io/components/layout/horizontal-aspect-ratios/index.html) helpers:
-
-```html
-<p class="aspect-ratio aspect-ratio--16x9">
-  <iframe
-    class="aspect-ratio--object"
-    width="560"
-    height="315"
-    src="https://www.youtube.com/embed/OFDAGiPJHL8"
-    frameborder="0"
-    allowfullscreen></iframe>
-</p>
-
-<p class="aspect-ratio aspect-ratio--16x9">
-  <iframe src="https://player.vimeo.com/video/752088388" width="640" height="564" frameborder="0" allowfullscreen></iframe>
-</p>
-```
-
-<p class="aspect-ratio aspect-ratio--16x9">
-  <iframe class="aspect-ratio--object" width="560" height="315" src="https://player.vimeo.com/video/752088388?h=664ab68909" frameborder="0" allowfullscreen> </iframe>
-</p>
-
 ### Font awesome is also included
 
 <i class="fa fa-quote-left fa-3x fa-pull-left fa-border"></i> Now you can use all the cool icons you want! [Font Awesome](http://fontawesome.io) is indeed awesome. But wait, you don't need this sweetness and you don't want that little bit of load time from the font awesome css? No problem, just disable it in the `config.yml` file, and it won't be loaded.
