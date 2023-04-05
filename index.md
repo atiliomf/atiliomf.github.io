@@ -1,5 +1,8 @@
 ---
+
 layout: default
+youtubeId: gsOtwF2sOLc
+
 ---
 
 ## A Jekyll template for publishing single-page websites and articles that are incredibly readable and fully responsive
@@ -14,9 +17,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ### Videos!
 
-<!--{% include vimeoPlayer.html id=752088388 %}-->
-
-{% include youtubePlayer.html id=gsOtwF2sOLc %}
+{% include youtubePlayer.html id=page.youtubeId %}
 
 ### With footnotes too!
 
