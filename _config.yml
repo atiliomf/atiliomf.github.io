@@ -5,11 +5,7 @@
 title: Unexpected Inventions
 
 # Where the page will be deployed.
-# If it's https://foo.com/bar, just write "https://foo.com"
 url: "www.unexpectedinventions.com"
-
-# If you're deployging to a subdirectory (https://foo.com/bar/)
-# Then write "/bar/". Otherwise, remove this line.
 baseurl: ""
 
 # Twitter IDs
@@ -19,20 +15,19 @@ author:
   twitter: ""
 
 # Set default og:image
-# From Unsplash: https://unsplash.com/photos/1_CMoFsPfso
 defaults:
   -
     scope:
       path: ""
     values:
-      image: "static/images/og.jpg"
+      image: "static/images/illustration.jpg"
 
 # ----------------------------------------------------------------------------
 # Customize Options: Optional
 #
 # See: https://material.io/guidelines/style/color.html
 # Use color-name-value, like pink-200 or deep-purple-100
-brand_color: "amber-400"
+brand_color: "blue-900"
 
 # How article URLs are structured.
 # See: https://jekyllrb.com/docs/permalinks/
@@ -48,7 +43,7 @@ lang: "en"
 num_posts_visible_initially: 5
 
 # Date format: See http://strftime.net/
-date_format: "%b %-d, %Y"
+date_format: "%v"
 # ----------------------------------------------------------------------------
 
 exclude:
