@@ -1,5 +1,7 @@
 ---
-title: "Dance"
+
+title: "Dance Videos"
+
 ---
 
 <p class="aspect-ratio aspect-ratio--16x9">
