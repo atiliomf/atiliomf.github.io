@@ -27,7 +27,7 @@ defaults:
 #
 # See: https://material.io/guidelines/style/color.html
 # Use color-name-value, like pink-200 or deep-purple-100
-brand_color: "blue-900"
+brand_color: "blue-200"
 
 # How article URLs are structured.
 # See: https://jekyllrb.com/docs/permalinks/
