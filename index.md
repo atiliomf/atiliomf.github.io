@@ -37,7 +37,27 @@ Just remember to customize the buttons to fit your url in the `_includes/sharing
 
 ### Add videos!
 
-<iframe src="https://player.vimeo.com/video/752088388" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+Use Tachyons [`aspect-ratio`](http://tachyons.io/components/layout/horizontal-aspect-ratios/index.html) helpers:
+
+```html
+<p class="aspect-ratio aspect-ratio--16x9">
+  <iframe
+    class="aspect-ratio--object"
+    width="560"
+    height="315"
+    src="https://www.youtube.com/embed/OFDAGiPJHL8"
+    frameborder="0"
+    allowfullscreen></iframe>
+</p>
+
+<p class="aspect-ratio aspect-ratio--16x9">
+  <iframe src="https://player.vimeo.com/video/752088388" width="640" height="564" frameborder="0" allowfullscreen></iframe>
+</p>
+```
+
+<p class="aspect-ratio aspect-ratio--16x9">
+  <iframe class="aspect-ratio--object" width="560" height="315" src="https://player.vimeo.com/video/752088388" frameborder="0" allowfullscreen></iframe>
+</p>
 
 ### Font awesome is also included
 
