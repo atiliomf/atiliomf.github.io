@@ -3,7 +3,7 @@ layout: default
 miudinho2022: 752088388?h=664ab68909
 ---
 
-<img src="images/illustration.jpg" alt="sample image">
+<img src="images/illustration.jpg">
 
 <hr>
 
