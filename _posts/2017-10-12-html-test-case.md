@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "HTML Test Case"
-# https://github.com/cbracco/html5-test-page/
 ---
 
 <section id="text">
