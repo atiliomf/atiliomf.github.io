@@ -11,5 +11,5 @@ markdown: kramdown
 
 exclude: ["README.md"]
 
-permalink: posts/:title/
+permalink: /:title/
 
