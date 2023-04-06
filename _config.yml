@@ -10,3 +10,6 @@ font-awesome-include: true
 markdown: kramdown
 
 exclude: ["README.md"]
+
+permalink: posts/:title/
+
