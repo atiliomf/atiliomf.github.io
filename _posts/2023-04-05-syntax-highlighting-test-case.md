@@ -1,6 +1,5 @@
 ---
-layout: default
-title: "Syntax Highlighting Test Case"
+
 ---
 
 ```c++

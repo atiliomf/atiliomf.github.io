@@ -8,8 +8,13 @@ font-awesome-include: true
 
 # Build settings
 markdown: kramdown
-
 exclude: ["README.md"]
-
 permalink: /:title/
 
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: default

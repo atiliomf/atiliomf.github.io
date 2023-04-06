@@ -16,7 +16,7 @@ body {
 
 @media (min-width: 30rem) {
   body {
-    margin-top: 5rem;
+    margin-top: 3rem;
   }
 }
 
@@ -45,8 +45,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 2.5rem;
-  margin-bottom: 7rem;
+  font-size: 3rem;
+  margin-bottom: 2rem;
   font-weight: 700;
   margin-left: -2rem;
   margin-right: -2rem;
@@ -54,8 +54,8 @@ h1 {
 
 @media (min-width: 30rem) {
   h1 {
-    font-size: 4rem;
-    margin-bottom: 10rem;
+    font-size: 3rem;
+    margin-bottom: 2rem;
   }
 }
 
@@ -65,9 +65,9 @@ h1 a {
 
 h2 {
   margin-top: 2rem;
-  font-size: 1.75rem;
+  font-size: 1.25rem;
   font-weight: 500;
-  margin-bottom: 5rem;
+  margin-bottom: 2rem;
   color: #555;
   text-align: right;
   margin-right: -4rem;
@@ -75,23 +75,23 @@ h2 {
 
 @media (min-width: 30rem) {
   h2 {
-    margin-top: 2.5rem;
-    font-size: 1.75rem;
-    margin-bottom: 8rem;
+    margin-top: 2rem;
+    font-size: 1.25rem;
+    margin-bottom: 2rem;
     margin-right: -4rem;
   }
 }
 
 h3 {
   margin: 2rem -2rem 1.75rem -2rem;
-  margin-top: 2rem;
-  font-size: 1.75rem;
+  margin-top: 2.3rem;
+  font-size: 1.45rem;
 }
 
 @media (min-width: 30rem) {
   h3 {
-    margin-top: 2.5rem;
-    font-size: 2rem;
+    margin-top: 2.3rem;
+    font-size: 1.45rem;
     margin-bottom: 1.5rem;
   }
 }

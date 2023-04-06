@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "HTML Test Case"
+title: "Test"
 ---
 
 <section id="text">
