@@ -1,7 +1,7 @@
 ---
+layout: default
 title: "Japanese Test Case"
 lang: "ja"
-
 ---
 
 日本経済新聞2011/10/9日掲載『[「ハングリーであれ。愚か者であれ」ジョブズ氏スピーチ全訳](https://www.nikkei.com/article/DGXZZO35455660Y1A001C1000000/)』より
