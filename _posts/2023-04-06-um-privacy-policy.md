@@ -3,9 +3,7 @@ layout: default
 title: "Um Privacy Policy"
 ---
 
-# Unexpected Music Privacy Policy
-
-## April 5th, 2023
+# Unexpected Music<br>Privacy Policy
 
 Atilio Menéndez built the app Unexpected Music as a Freemium app. It is a SERVICE provided for use as is. 
 
@@ -39,5 +37,6 @@ Our Services do not address anyone under the age of 13. We do not knowingly coll
 
 ### Changes to This Privacy Policy
 
-We may update our Privacy Policy from time to time. Thus, we advise you to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page. If you have any questions or suggestions about our Privacy Policy, do not hesitate to [contact us.](mailto:privacy@unexpectedinventions.com)
+We may update our Privacy Policy from time to time. Thus, we advise you to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page. If you have any questions or suggestions about our Privacy Policy, do not hesitate to [<u>contact us</u>](mailto:privacy@unexpectedinventions.com).
 
+## April 5th, 2023

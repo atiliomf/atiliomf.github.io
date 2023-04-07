@@ -2,7 +2,7 @@
 
 html {
   font: 18px/1.6 'Open Sans', sans-serif;
-  background-color: white;
+  background-color: #F0F0F0;
 }
 
 @media (max-width: 325px) {
@@ -11,7 +11,7 @@ html {
 
 body {
   margin: 2rem 0 5rem;
-  color: #222;
+  color: black;
 }
 
 @media (min-width: 30rem) {
@@ -21,7 +21,7 @@ body {
 }
 
 a {
-  color: #0074d9; /* From http://clrs.cc */
+  color: black; /* From http://clrs.cc */
   text-decoration: none;
 }
 
@@ -31,7 +31,7 @@ a:hover, a:focus {
 
 h1, h2, h3, h4, h5, h6 {
   margin: 0 0 0.5rem -0.1rem /* align left edge */;
-  color: #111;
+  color: black;
   text-rendering: optimizeLegibility;
   font-family: 'Open Sans', serif;
   line-height: 1.2
@@ -45,8 +45,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 3rem;
-  margin-bottom: 2.7rem;
+  font-size: 2.5rem;
+  margin-bottom: 2.5rem;
   font-weight: 700;
   margin-left: -2rem;
   margin-right: -2rem;
@@ -54,8 +54,8 @@ h1 {
 
 @media (min-width: 30rem) {
   h1 {
-    font-size: 3rem;
-    margin-bottom: 2.7rem;
+    font-size: 2.5rem;
+    margin-bottom: 2.5rem;
   }
 }
 
@@ -68,7 +68,7 @@ h2 {
   font-size: 1.2rem;
   font-weight: 500;
   margin-bottom: 2rem;
-  color: #555;
+  color: grey;
   text-align: right;
   margin-right: -3rem;
 }
@@ -119,7 +119,7 @@ blockquote {
   margin-right: 0;
   padding: 0rem 0.8rem;
   border-left: .3rem solid #ccc;
-  color: #555;
+  color: lightgrey;
 }
 
 blockquote p:last-child {
@@ -127,7 +127,7 @@ blockquote p:last-child {
 }
 
 .footnote {
-  color: #444;
+  color: lightgrey;
 }
 
 .center {
