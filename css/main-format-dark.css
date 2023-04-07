@@ -2,16 +2,16 @@
 
 html {
   font: 18px/1.6 'Open Sans', sans-serif;
-  background-color: #F0F0F0;
+  background-color: #161616;
 }
 
 @media (max-width: 325px) {
-  html { font: 17px/1.6 'Open Sans', sans-serif; background-color: white;}
+  html { font: 17px/1.6 'Open Sans', sans-serif; background-color: #111111;}
 }
 
 body {
   margin: 2rem 0 5rem;
-  color: black;
+  color: #EEEEEE;
 }
 
 @media (min-width: 30rem) {
@@ -21,7 +21,7 @@ body {
 }
 
 a {
-  color: black; /* From http://clrs.cc */
+  color: #EEEEEE; 
   text-decoration: none;
 }
 
@@ -30,10 +30,10 @@ a:hover, a:focus {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  margin: 0 0 0.5rem -0.1rem /* align left edge */;
-  color: black;
+  margin: 0 0 0.5rem -0.1rem;
+  color: #DDDDDD;
   text-rendering: optimizeLegibility;
-  font-family: 'Open Sans', serif;
+  font-family: 'Open Sans', sans-serif;
   line-height: 1.2
 }
 
@@ -45,8 +45,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 2.5rem;
-  margin-bottom: 2.5rem;
+  font-size: 2.2rem;
+  margin-bottom: 2rem;
   font-weight: 700;
   margin-left: -2rem;
   margin-right: -2rem;
@@ -54,8 +54,8 @@ h1 {
 
 @media (min-width: 30rem) {
   h1 {
-    font-size: 2.5rem;
-    margin-bottom: 2.5rem;
+    font-size: 2.2rem;
+    margin-bottom: 2rem;
   }
 }
 
@@ -64,8 +64,8 @@ h1 a {
 }
 
 h2 {
-  margin-top: 1.8rem;
-  font-size: 1.2rem;
+  margin-top: 1rem;
+  font-size: 1.45rem;
   font-weight: 500;
   margin-bottom: 2rem;
   color: grey;
@@ -75,8 +75,8 @@ h2 {
 
 @media (min-width: 30rem) {
   h2 {
-    margin-top: 1.8rem;
-    font-size: 1.2rem;
+    margin-top: 1rem;
+    font-size: 1.45rem;
     margin-bottom: 2rem;
     margin-right: -3rem;
   }
@@ -97,8 +97,10 @@ h3 {
 }
 
 h4, h5, h6 {
-  margin: 1.5rem -1rem 1.5rem -1rem;
-  font-size: 1.5rem;
+  margin: -1.4rem 1rem 1rem 0rem;
+  color: #AAAAAA;
+  font-weight: 500;
+  font-size: 0.8rem;
 }
 
 p, ul, ol, dl, table, pre, blockquote {
