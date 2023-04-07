@@ -64,21 +64,21 @@ h1 a {
 }
 
 h2 {
-  margin-top: 1rem;
-  font-size: 1.45rem;
+  margin-top: 5rem;
+  font-size: 1.2rem;
   font-weight: 500;
-  margin-bottom: 2rem;
+  margin-bottom: 3rem;
   color: grey;
   text-align: right;
-  margin-right: -3rem;
+  margin-right: -2rem;
 }
 
 @media (min-width: 30rem) {
   h2 {
-    margin-top: 1rem;
-    font-size: 1.45rem;
-    margin-bottom: 2rem;
-    margin-right: -3rem;
+    margin-top: 5rem;
+    font-size: 1.2rem;
+    margin-bottom: 3rem;
+    margin-right: -2rem;
   }
 }
 
