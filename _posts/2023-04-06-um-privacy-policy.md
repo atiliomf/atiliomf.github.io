@@ -6,7 +6,7 @@ title: "Um Privacy Policy"
 ## <i>U</i>nexpected <i>M</i>usic
 # Privacy Policy
 
-Atilio Menéndez built the app Unexpected Music as a Freemium app. It is a SERVICE provided for use as is. 
+Atilio Menéndez built the app Unexpected Music as a Freemium app. This SERVICE is provided by Atilio Menéndez and intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use and disclosure of Personal Information if anyone decided to use our Service. 
 
@@ -19,6 +19,12 @@ For a better experience while using our Service, we may require you to provide u
 ### Log Data
 
 We want to inform you that whenever you visit our Service, we collect information that your browser sends to us that is called Log Data. This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser version, pages of our Service that you visit, the time and date of your visit, the time spent on those pages, and other statistics.
+
+### Cookies
+
+Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+
+This Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
 
 ### Service Providers
 
@@ -40,7 +46,7 @@ Our Services do not address anyone under the age of 13. We do not knowingly coll
 
 We may update our Privacy Policy from time to time. Thus, we advise you to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page. 
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to  [<u>contact us</u>](mailto:privacy@unexpectedinventions.com). 
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to [<u>contact us</u>](mailto:privacy@unexpectedinventions.com). 
 
-Last updated: April 7th, 2023.
+Last updated on the 12th of April, 2023.
     
