@@ -4,7 +4,7 @@ title: "Impressum"
 ---
 
 ## <i>U</i>nexpected <i>I</i>nventions
-# Kontakt
+# Contact
 
 Atilio Menéndez<br>
 Hobrechtstr. 13<br>
@@ -13,7 +13,7 @@ Hobrechtstr. 13<br>
 
 # Impressum
 
-Alle Inhalte und Dokumente (Illustrationen, Grafiken, Texte, Fotos) sind, wenn nicht anders angegeben: Copyright by Atilio Menéndez. Alle Rechte vorbehalten. All rights reserved. Alle Inhalte und Dokumente sind nach nationalem (Urheberrechtsgesetz, §15 UrhG.) und internationalem Recht (Welturheberrechtsabkommen) geschützt. Die Drittverwertung der in dieser Site veröffentlichten Illustrationen, Grafiken, Texte und sonstiger Inhalte ist ausschliesslich mit schriftlicher Einwilligung zulässig.
+Alle Inhalte und Dokumente (Illustrationen, Grafiken, Texte, Fotos) sind, wenn nicht anders angegeben: Copyright by Atilio Menéndez. Alle Rechte vorbehalten. All rights reserved. Alle Inhalte und Dokumente sind nach nationalem (Urheberrechtsgesetz, §15 UrhG.) und internationalem Recht (Welturheberrechtsabkommen) geschützt. Die Drittverwertung der in dieser Site veröffentlichten Illustrationen, Grafiken, Texte und sonstiger Inhalte ist ausschliesslich mit schriftlicher Einwilligung zulässig.<br><br>
 
 # Privacy Policy
 
@@ -47,5 +47,5 @@ Our Services do not address anyone under the age of 13. We do not knowingly coll
 
 We may update our Privacy Policy from time to time. Thus, we advise you to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page. If you have any questions or suggestions about our Privacy Policy, do not hesitate to [<u>contact us</u>](mailto:privacy@unexpectedinventions.com).
 
-Last updated on the 12th of April, 2023.
+Last updated: April 12th, 2023.
 
