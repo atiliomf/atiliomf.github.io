@@ -6,7 +6,7 @@ title: "Um Privacy Policy"
 ## <i>U</i>nexpected <i>M</i>usic
 # Privacy Policy
 
-Atilio Menéndez built the app Unexpected Music as a Freemium app. This SERVICE is intended for use as is.
+The app Unexpected Music is a SERVICE provided by Atilio Menéndez and intended for use "as is", without any warranty. All warranties, whether expressed or implied, including merchantability and fitness for purpose are disclaimed.  
 
 This page is used to inform visitors regarding our policies with the collection, use and disclosure of Personal Information if anyone decided to use our Service. 
 
