@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: dark
 title: "Um Privacy Policy"
 ---
 
-## <i>U</i>nexpected <i>M</i>usic
+## Unexpected Music
 # Privacy Policy
 
 The app Unexpected Music is a Service provided by Atilio Menéndez. It is intended for use as is, without any warranty, and all warranties, whether expressed or implied, including merchantability and fitness for purpose, are disclaimed.  

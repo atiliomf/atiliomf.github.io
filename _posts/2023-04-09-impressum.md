@@ -1,15 +1,9 @@
 ---
-layout: default
+layout: dark
 title: "Impressum"
 ---
 
-## <i>U</i>nexpected <i>I</i>nventions
-# Contact
-
-Atilio Menéndez<br>
-Hobrechtstr. 13<br>
-12047 Berlin<br>
-[<u>info@unexpectedinventions.com</u>](mailto:info@unexpectedinventions.com)<br><br>
+## Unexpected Inventions
 
 # Impressum
 
@@ -47,5 +41,13 @@ Our Services do not address anyone under the age of 13. We do not knowingly coll
 
 We may update our Privacy Policy from time to time. Thus, we advise you to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page. If you have any questions or suggestions about our Privacy Policy, do not hesitate to [<u>contact us</u>](mailto:privacy@unexpectedinventions.com).
 
-Last updated: April 12th, 2023.
+Last updated: August 25th, 2024.
+
+# Contact
+
+Atilio Menéndez<br>
+Hobrechtstr. 13<br>
+12047 Berlin<br>
+[<u>info@unexpectedinventions.com</u>](mailto:info@unexpectedinventions.com)<br><br>
+
 
