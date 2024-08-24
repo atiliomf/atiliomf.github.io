@@ -3,11 +3,9 @@ layout: dark
 title: "Unexpected Music"
 ---
 
-## Unexpected Music
+# Unexpected Music
 
-# Introduction
-
-Unexpected Music – an inspiring collection of musical tools!
+An inspiring collection of musical tools!
 
 Understand the fundaments of music, develop your musical ear, intuitively play and create melodies wherever you are, explore scales and chord progressions, improve your singing, tread new musical paths...
 
@@ -56,7 +54,7 @@ Let Unexpected Music inspire you to create the unexpected!
 
 # Support
 
-If something doesn't work as expected or you have any suggestion, please do not hesitate to send [<u>send your feedback</u>](mailto:support@unexpectedinventions.com)!
+If something doesn't work as expected or you have any suggestion, please do not hesitate to [<u>send your feedback</u>](mailto:support@unexpectedinventions.com)!
 
 The entire one-person-team will be very grateful and work hard on a solution!
 
