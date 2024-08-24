@@ -37,9 +37,7 @@ Unexpected Music is invaluable for anybody interested in making music, from the 
 • The good ‘ol faithful but unforgiving metronome.
 
 
-These tools are all held together by Unexpected Music's heart – the wheel.
-
-This innovative and always accessible user interface:
+These tools are all held together by Unexpected Music's heart – the wheel. This innovative and always accessible user interface:
 
 
 • Is an expressive instrument which can be very easily played.
