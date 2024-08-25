@@ -7,15 +7,15 @@ title: "Unexpected Music"
 
 # Introduction
 
-Unexpected Music - An inspiring collection of musical tools!
+Unexpected Music - an inspiring collection of musical tools!
 
-Understand the fundaments of music, develop your musical ear, play and create melodies - intuitively and wherever you are, explore scales and chord progressions, improve your singing or playing, tread new musical paths...
+Understand the fundaments of music, develop your musical ear, intuitively play and create melodies wherever you are, explore scales and chord progressions, improve your singing or playing, tread new musical paths...
 
 Unexpected Music is invaluable for anybody interested in making music, from the complete beginner to the seasoned musician. It includes:
 
 - An advanced, no-nonsense, and fully customisable ear and musical trainer.
 - A live-audio analysis tool, which allows you to "see" the sounds – great to train your voice or to play a song by ear.
-- A scale explorer, with countless scales in various categories.
+- An innovative scale explorer, with countless scales in various categories.
 - A vast collection of chord progressions and a special interface to play them.
 - A musical sketchbook, to quickly record and develop musical ideas.
 - A multi-instrument tuner, which can itself be tuned.
