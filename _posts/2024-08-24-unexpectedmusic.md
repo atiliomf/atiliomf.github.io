@@ -14,7 +14,7 @@ Understand the fundaments of music, develop your musical ear, intuitively play a
 Unexpected Music is invaluable for anybody interested in making music, from the complete beginner to the seasoned musician. It includes:
 
 - An advanced, no-nonsense, and fully customisable ear and musical trainer.
-- A live-audio analysis tool, which allows you to "see" the sounds – great to train your voice or to play a song by ear.
+- A live-audio analysis tool, which allows you to "see" the notes being played around you – great to train your voice or to play a song by ear.
 - An innovative scale explorer, with countless scales in various categories.
 - A vast collection of chord progressions and a special interface to play them.
 - A musical sketchbook, to quickly record and develop musical ideas.
@@ -30,10 +30,23 @@ These tools are all held together by Unexpected Music's heart – the wheel. Thi
 - Is an expressive instrument which can be played very easily.
 - Can be freely rotated – so you can intuitively play a melody regardless of the key and then transpose it effortlessly.
 - Lets you select or exclude notes with a swipe and thus quickly explore and discover scales.
-- Allows you to readily understand the relationships between chords.
+- Allows you to see and readily understand the relationships between chords.
 - and so much more...
 
-Let Unexpected Music inspire you to create the unexpected!
+Let Unexpected Music inspire you to create the unexpected! 
+
+Download it for free from the Apple App Store or the Google Play Store.  
+
+Please note that some functions are only included with the pro version of Unexpected Music:
+
+- The musical trainer.
+- The audio analysis tool.
+- The interactive scales graph.
+- MIDI input and output.
+- Instrument sounds except for the upright piano.
+
+All other functions are freely and permanently available. The pro version can be tested for free for seven days and with no obligation whatsoever. 
+
 
 # Support
 
