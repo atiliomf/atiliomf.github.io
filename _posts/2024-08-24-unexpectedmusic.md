@@ -21,7 +21,7 @@ Unexpected Music is invaluable for anybody interested in making music, from the 
 - A multi-instrument tuner, which can itself be tuned.
 - An intuitive transposition function, based on Shepard tones.
 - Many great-sounding instruments.
-- A surprising random-music generator.
+- A surprising random music generator.
 - Support for MIDI input and output.
 - The good ‘ol faithful but unforgiving metronome.
 
