@@ -7,46 +7,35 @@ title: "Unexpected Music"
 
 # Introduction
 
-Unexpected Music - an inspiring collection of musical tools!
+Unexpected Music – a uniquely inspiring collection of musical tools!
 
-Understand the fundaments of music, develop your musical ear, intuitively play and create melodies wherever you are, explore scales and chord progressions, improve your singing or playing, tread new musical paths...
+Understand the fundaments of music, develop your musical ear, intuitively play and create melodies wherever you are, improve your singing or playing, tread new musical paths, invent and create... 
 
-Unexpected Music is invaluable for anybody interested in making music, from the complete beginner to the seasoned musician. It includes:
+Unexpected Music is an extremely useful collection of tools for just about anyone interested in making music, from the complete beginner all the way to the seasoned musician. It includes:
 
-- An intuitive interface to easily create, play and transpose melodies.
-- An advanced, no-nonsense, and fully customisable ear and musical trainer [pro].
-- A live-audio analysis tool, which allows you to "see" the notes being played around you – great to train your voice or to play a song by ear [pro].
-- An innovative scale explorer, with countless scales in various categories.
-- A vast collection of chord progressions and a special interface to play them.
-- A musical sketchbook, to quickly record and develop musical ideas on the go.
-- A multi-instrument tuner, which can itself be tuned.
-- An intuitive transposition function, based on Shepard tones.
-- Many great-sounding instruments [pro].
-- Support for MIDI input and output [pro].
-- A surprising random music generator [pro].
-- The good ‘ol faithful but unforgiving metronome.
+• An advanced, no-nonsense, and fully customisable ear and musical trainer, which doubles as a random music generator [pro].
+• A live-audio analysis tool, which allows you to "see" the notes being played around you – it's like instantly having perfect pitch! Great to train your voice or to play a song by ear [pro].
+• A complete scale explorer with countless categories.
+• A vast collection of chord progressions and a special interface to play them.
+• A musical sketchbook, to quickly record and develop musical ideas on-the-go.
+• A unique graphical display of the scales according to their similarities [pro].
+• An advanced multi-instrument tuner, which can itself be tuned.
+• An intuitive transposition function, based on Shepard tones.
+• Superbly-sounding instruments.
+• Support for MIDI input and output [pro].
+• And, last but not least, the good ‘ol faithful but unforgiving metronome.
 
 These tools are all held together by Unexpected Music's heart – the wheel. This innovative and always accessible user interface:
 
-- Is an expressive and easy to play instrument.
-- Can be freely rotated – so you can intuitively play a melody regardless of the key and then transpose it effortlessly.
-- Lets you select or exclude notes with a swipe and thus quickly explore and discover scales.
-- Allows you to see and readily understand the relationships between chords.
-- and so much more...
+• Is an expressive instrument which can be played very easily.
+• Can be freely rotated – so you can intuitively play a melody regardless of the key and then transpose it effortlessly.
+• Lets you select or exclude notes with a swipe and thus quickly explore and discover scales.
+• Allows you to see and thus readily understand the relationships between chords.
+• And so much more...
 
-Let Unexpected Music inspire you to create the unexpected! 
+Let Unexpected Music inspire you to create the unexpected!
 
-Download it for free from the Apple App Store or the Google Play Store.  
-
-Please note that some functions are only included with the pro version of Unexpected Music:
-
-- The musical trainer.
-- The audio analysis tool.
-- The interactive scales graph.
-- MIDI input and output.
-- Instrument sounds except for the upright piano.
-
-All other functions are freely and permanently available. The pro version can be tested for free for seven days and with no obligation whatsoever. 
+Please note that some functions are included only with the pro version of Unexpected Music, which can be tested for free for seven days and with no obligation whatsoever. 
 
 
 # Support
