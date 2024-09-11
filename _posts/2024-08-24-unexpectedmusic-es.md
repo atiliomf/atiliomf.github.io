@@ -11,18 +11,19 @@ Música inesperada: ¡una inspiradora colección de herramientas musicales!
 
 Comprende los fundamentos de la música, desarrolla tu oído musical, toca y crea melodías intuitivamente estés donde estés, explora escalas y progresiones de acordes, mejora tu canto, recorre nuevos caminos musicales...
 
-Música inesperada tiene un valor incalculable para cualquier persona interesada en la música, desde el principiante hasta el músico experimentado. Incluye:
+Música inesperada tiene un valor incalculable para cualquier persona interesada en crear música, desde el principiante hasta el músico experimentado. Incluye:
 
-- Un entrenador auditivo y musical avanzado y totalmente personalizable, que además puede soorprenderte creando música aleatoriamente [pro].
-- Una herramienta de análisis de audio en directo, que te permite «ver» los sonidos: ideal para entrenar tu voz o para tocar una canción de oído.
+- Un entrenador auditivo y musical avanzado y totalmente personalizable, que además puede generar música aleatoriamente. [pro]
+- Una herramienta de análisis de audio en directo, que te permite «ver» los sonidos: ¡es como tener un tono perfecto al instante! Ideal para entrenar tu voz o para tocar una canción de oído. [pro]
 - Un explorador de escalas, con innumerables escalas en varias categorías.
 - Una amplia colección de progresiones de acordes y una interfaz especial para tocarlas.
 - Un cuaderno de bocetos musicales, para grabar y desarrollar rápidamente ideas musicales.
 - Un afinador multiinstrumento, que puede él mismo ser afinado.
 - Una función de transposición intuitiva, basada en tonos Shepard.
 - Muchos instrumentos de gran sonido y bellamente muestreados.
+- Un gráfico interactivo de escalas similares. ¡Eexcelente para comprender rápidamente cómo se relacionan las escalas entre sí y descubrir otras nuevas! [pro]
 - Un sorprendente generador de música aleatoria.
-- Soporte para entrada y salida MIDI.
+- Soporte para entrada y salida MIDI. [pro]
 - El fiel pero implacable metrónomo.
 
 Todas estas herramientas están unidas por el corazón de Unexpected Music: la rueda.
