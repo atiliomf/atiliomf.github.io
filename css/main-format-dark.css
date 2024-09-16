@@ -2,7 +2,7 @@
 
 html {
   font: 18px/1.6 'Open Sans', sans-serif;
-  background-color: #152f70;
+  background-color: #0f1f4f;
 }
 
 @media (max-width: 325px) {
@@ -21,19 +21,19 @@ details {
 
 details > summary {
   padding: -1px 0px;
-  background-color: #152f70;
+  background-color: #0f1f4f;
   cursor: pointer;
   color: #AAAAAA;
 }
 
 details[open] > summary {
-  background-color: #152f70;
+  background-color: #0f1f4f;
   color: #AAAAAA;
 }
 
 details > p {
   border-radius: 0 0 10px 10px;
-  background-color: #152f70;
+  background-color: #0f1f4f;
   margin-top: 1rem;
   margin-bottom : 1.7rem;
   margin-left : 0.8rem;
