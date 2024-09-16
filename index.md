@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: dark
 ---
 
-<a href="/impressum">
-    <img src="images/illustration.jpg">
+<a href="/um">
+    <img src="images/UnexpectedMusicFeatureGraphic.jpg">
 </a>
 
